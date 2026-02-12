@@ -1,2 +1,2 @@
 # Student-Grade-Prediction-Python-Project-
-Predicts student's exam result by considering no of variables that can effect it.
+This project applies Machine Learning techniques to predict students' final grades based on academic and demographic features.
